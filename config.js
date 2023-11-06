@@ -5,7 +5,7 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
 
-
+auto status seen
 global.owner = [
   ['94740804536', 'Dinuwa Official²⁰²³', true],
   ['94740804536', 'Dinuwa Official²⁰²³', true], 
